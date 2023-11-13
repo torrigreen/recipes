@@ -1,2 +1,4 @@
 # Recipes Website
-This project is a website for storing recipes. The homepage will link to different recipes. I will demonstrate my skill in HTML.
+A simple HTML website for housing recipes.
+
+[live site](https://torrigreen.github.io/odin-recipes)
