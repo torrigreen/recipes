@@ -1,0 +1,19 @@
+* {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: rgb(30, 30, 30);
+  color: rgb(255, 255, 255);
+}
+
+h1 {
+  font-size: 48px;
+  font-weight: bold;
+}
+
+li {
+  font-size: 18px;
+}
+
+img {
+  height: 400px;
+  width: auto;
+}
