@@ -1,7 +1,16 @@
+html {
+  box-sizing: border-box;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
 * {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   background-color: rgb(30, 30, 30);
   color: rgb(255, 255, 255);
+  margin: 15px 10px;
 }
 
 h1 {
@@ -16,4 +25,8 @@ li {
 img {
   height: 400px;
   width: auto;
+}
+
+em {
+  margin: 0px;
 }
