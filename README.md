@@ -1,4 +1,3 @@
-# Recipes Website
-A simple HTML website for housing recipes.
+# recipes website
 
-[live site](https://torrigreen.github.io/odin-recipes)
+[live site](https://torrigreen.github.io/recipes)
